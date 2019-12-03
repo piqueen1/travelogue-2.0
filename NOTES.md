@@ -1,5 +1,7 @@
 # travelogue-CLI-app
 
+This is to practice merging.
+
 CLI Travelogue App
 User Stories
 i. As a traveler, I should be able to create a record of a country I’ve been to.
@@ -16,7 +18,7 @@ ii. List travelers in our database; choose one?
 iii. List options: return to main menu? Do another search? Exit program?
 iv. List most popular (frequently visited or highly ranked) country
 v. List traveler that has gone to the most places
-  
+
 Note: Thin vertical slice: start with a single piece of data and get it to behave how you want.
 
 CRUD app => Create, Read, Update, Delete
